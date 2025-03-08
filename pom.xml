@@ -38,7 +38,11 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
-			<scope>change</scope>
+
+		
+
+			<scope>compile</scope>
+
 		</dependency>
 	</dependencies>
 
